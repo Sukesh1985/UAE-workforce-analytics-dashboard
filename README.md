@@ -289,7 +289,7 @@ HR Analytics Specialist | Workforce Planning Analyst
 
 🔗 **Connect with me:**
 - 💼 [LinkedIn](https://www.linkedin.com/in/sukesh-singla-667701a5)
-- 📧 Email: your.ssingla25@gmail.com
+- 📧 Email: ssingla25@gmail.com
 - 💻 [Portfolio](https://sukesh1985.github.io )
 - 📊 [More Projects](https://github.com/Sukesh1985)
 

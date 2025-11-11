@@ -68,7 +68,7 @@ High-level KPIs and workforce trends at a glance
 - Industry employment overview
 - 5-year growth trend analysis
 
-![Executive Overview]<img width="1250" height="723" alt="page1-executive" src="https://github.com/user-attachments/assets/cf72e915-f198-4aad-885f-2e2a18e51aa2" />
+<img width="1250" height="723" alt="page1-executive" src="https://github.com/user-attachments/assets/cf72e915-f198-4aad-885f-2e2a18e51aa2" />
 
 ### 2. **Workforce Demographics**
 Deep-dive into employee composition
@@ -77,7 +77,7 @@ Deep-dive into employee composition
 - Education level distribution by industry
 - Skill level analysis by gender
 
-![Demographics]<img width="1232" height="716" alt="page2-demographics" src="https://github.com/user-attachments/assets/7f6b8fcb-9547-4047-895a-d8a594828a7f" />
+<img width="1232" height="716" alt="page2-demographics" src="https://github.com/user-attachments/assets/7f6b8fcb-9547-4047-895a-d8a594828a7f" />
 
 ### 3. **Industry Analysis**
 Sector-specific workforce intelligence
@@ -86,7 +86,7 @@ Sector-specific workforce intelligence
 - Male/Female distribution by sector
 - Workforce size comparison
 
-![Industry Analysis]<img width="1263" height="720" alt="page3-industry" src="https://github.com/user-attachments/assets/15338cc9-0506-42d4-90fc-8934e84d1ded" />
+<img width="1263" height="720" alt="page3-industry" src="https://github.com/user-attachments/assets/15338cc9-0506-42d4-90fc-8934e84d1ded" />
 
 ### 4. **Salary Intelligence**
 Comprehensive compensation analysis
@@ -96,7 +96,7 @@ Comprehensive compensation analysis
 - Average salary by Emirate
 - Job category & gender-based compensation
 
-![Salary Intelligence]<img width="1254" height="713" alt="page4-salary" src="https://github.com/user-attachments/assets/59a25621-d478-44d0-ae24-0b5a0930a987" />
+<img width="1254" height="713" alt="page4-salary" src="https://github.com/user-attachments/assets/59a25621-d478-44d0-ae24-0b5a0930a987" />
 
 ### 5. **Hiring Trends & Workforce Planning**
 Predictive insights for strategic planning
@@ -106,7 +106,7 @@ Predictive insights for strategic planning
 - Time-to-fill by industry
 - Current vacancy status
 
-![Hiring Trends]<img width="1260" height="717" alt="page5-hiring" src="https://github.com/user-attachments/assets/6372c090-d6c0-47fd-aaa3-2740b5bb692b" />
+<img width="1260" height="717" alt="page5-hiring" src="https://github.com/user-attachments/assets/6372c090-d6c0-47fd-aaa3-2740b5bb692b" />
 
 ### 6. **Compliance & Insights**
 Regulatory adherence monitoring
@@ -115,7 +115,7 @@ Regulatory adherence monitoring
 - Key findings & recommendations
 - Action items for HR leadership
 
-![Compliance]<img width="1243" height="716" alt="page6-compliance" src="https://github.com/user-attachments/assets/9400a436-f21a-4117-b88e-3ec5c9578c70" />
+<img width="1243" height="716" alt="page6-compliance" src="https://github.com/user-attachments/assets/9400a436-f21a-4117-b88e-3ec5c9578c70" />
 
 ---
 
